@@ -126,7 +126,7 @@ export const products: Product[] = [
 		name: 'Basic Cotton Socks',
 		description: 'Everyday ankle socks in soft cotton. Great value pack.',
 		price: 5.0,
-		image: 'https://images.unsplash.com/photo-1580894732930-99ac1a8f90f8?w=400&h=400&fit=crop',
+		image: '/images/socks.png',
 		category: 'Accessories'
 	}
 ];
